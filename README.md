@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
 
-#Project Details
+# Project Details
 This App is created to display the list of Top Stories and Latest Stories, having the link which will open the url into new tab.
 
 1. For this I have created a new component i.e news-list.component to display the List of stories and the pagination.
